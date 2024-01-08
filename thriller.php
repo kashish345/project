@@ -36,6 +36,9 @@ nav a {
         <title> thriller</title>
     </head>
     <body>
+    <nav>
+    <a href="bookbunker.php"style="padding: 20px; color:white; text-align:right">home</a>
+    <a href="cart.php"style="padding: 20px; color:white; text-align:right">Cart</a><br></nav>
         <h1> THRILLER </h1>
         <h2>“The sweetest smiles hold the darkest secrets...”</h2></div>
         <nav>

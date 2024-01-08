@@ -37,37 +37,37 @@ nav a {
     </head>
     <body>
         <nav>
-    <a href="bookbunker.php"style="padding: 20px; color:white; text-align:right">home</a>
-    <a href="cart.php"style="padding: 20px; color:white; text-align:right">Cart</a><br></nav>
-        <h1> ROMANCE</h1>
-        <h2>"Books may well be the only true magic"</h2>
+    <a href="bookbunker.php" style="padding: 20px; color:white; text-align:right">home</a>
+    <a href="cart.php" style="padding: 20px; color:white; text-align:right">Cart</a><br></nav>
+        <h1> FICTION</h1>
+        <h2>"It does not do to dwell on dreams and forget to live."</h2>
         <form action="insert.php" method="POST">
         <nav>
             <div style="display: flex">
             <div style="background-color:; margin-left: 150px; margin-top:30px;  width: fit-content; text-align: center">
-            <img src="image/2 states.jpeg"></img>
-            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="2 States - The Story of My Marriage (English)"><br>by Chetan Bhagat | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 231"> <br><input type="submit" name="submit" value="add to cart"></p>
+            <img src="image/last queen.jpeg"></img>
+            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="the last queen"><br>by Chetan Bhagat | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 231"> <br><input type="submit" name="submit" value="add to cart"></p>
             </div>
             <div style="background-color:; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
-            <img src="image/all you perfect.jpeg"></img>
-            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="All your perfects(English)"><br>by Collen Hoover | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 230"><br><input type="submit" name="submit" value="add to cart"></p>
+            <img src="image/harry potter.jpeg"></img>
+            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="Harry potter book set"><br>by Collen Hoover | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 1499"><br><input type="submit" name="submit" value="add to cart"></p>
             </div>
             <div style="background-color: ; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
-            <img src="image/below zero.jpeg"></img>
+            <img src="image/percy.jpeg"></img>
             <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="Below Zero (English)"><br>by Ali Hazelwood | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 231"> <br><input type="submit" name="submit" value="add to cart"></p>
             </div>
             </div>
             <div style="display: flex">
             <div style="background-color:; margin-left: 150px; margin-top:30px;  width: fit-content; text-align: center">
-            <img src="image/bittersweet memories.jpeg"></img>
+            <img src="image/forests.jpeg"></img>
             <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="Bittersweet Memories (English)"><br>by Catherina Maura | 1 Januy 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 231"> <br><input type="submit" name="submit" value="add to cart"></p>
             </div>
             <div style="background-color:; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
-            <img src="image/breaking dawn.jpeg"></img>
+            <img src="image/palace.jpeg"></img>
             <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="Breaking Dawn (English)"><br>by Stephenie Meyer | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 230"> <br><input type="submit" name="submit" value="add to cart"><p>
             </div>
             <div style="background-color: ; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
-            <img src="image/eclispe.jpeg"></img>
+            <img src="image/shiva.jpeg"></img>
             <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="Eclipse (English)"><br>by Stephenie Meyer | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 231"> <br><input type="submit" name="submit" value="add to cart"></p>
             </div>
             </div>

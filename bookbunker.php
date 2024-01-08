@@ -61,12 +61,12 @@ nav a {
 
     <main><br>
         <nav style="font-color: white">
-            <a href="romance.php" target="_blank" style="padding: 20px; color:white">Romance</a>
-            <a href="thriller.php" target="_blank" style="padding: 20px; color:white">Thriller</a>
-            <a href="fiction.html" target="_blank"style="padding: 20px;color:white">Fiction</a></li>
-           <a href="nonfiction.html" target="_blank"style="padding: 20px; color:white">Non-Fiction</a>
-            <a href="horror.html" target="_blank"style="padding: 20px; color:white">Horror</a>
-            <a href="contact.php" target="_blank"style="padding: 20px; color:white">Contact Us</a><br>
+            <a href="romance.php"  style="padding: 20px; color:white">Romance</a>
+            <a href="thriller.php"  style="padding: 20px; color:white">Thriller</a>
+            <a href="ficition.php" style="padding: 20px;color:white">Fiction</a></li>
+           <a href="nonfiction.html" style="padding: 20px; color:white">Non-Fiction</a>
+            <a href="horror.html" style="padding: 20px; color:white">Horror</a>
+            <a href="contact.php" style="padding: 20px; color:white">Contact Us</a><br>
             <form action="search.php" method="GET">
                 <input type="text" name="query" placeholder="Search...">
                 <input type="submit" value="Search">
@@ -102,6 +102,22 @@ nav a {
             </div>
             <div style="background-color:; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
             <a href="thriller.php"><img src="image/as good as dead.jpeg"></img></a>
+            <p>As Good As Dead (English)<br>>M.R.P: 230</p>
+            </div>
+            </nav>
+            <h1 style="color:white">Fiction</h1>
+            <nav>
+            <div style="display: flex">
+            <div style="background-color:; margin-left: 150px; margin-top:30px;  width: fit-content; text-align: center">
+            <a href="ficition.php"><img src="image/palace.jpeg"></img></a>
+            <p>A Good Girl's Guide To Murder (English)<br>M.R.P: 231</p>
+            </div>
+            <div style="background-color: ; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
+            <a href="ficition.php"><img src="image/forests.jpeg" style="height: 170px; width: 170px;"></img></a>
+            <p>Good Girl, Bad Blood (English)<br>M.R.P: 231</p>
+            </div>
+            <div style="background-color:; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
+            <a href="ficition.php"><img src="image/last queen.jpeg"></img></a>
             <p>As Good As Dead (English)<br>>M.R.P: 230</p>
             </div>
            
