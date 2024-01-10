@@ -33,7 +33,7 @@ nav a {
             padding: 20px;
         }
         </style>
-        <title> romance</title>
+        <title>fiction</title>
     </head>
     <body>
         <nav>
@@ -46,29 +46,29 @@ nav a {
             <div style="display: flex">
             <div style="background-color:; margin-left: 150px; margin-top:30px;  width: fit-content; text-align: center">
             <img src="image/last queen.jpeg"></img>
-            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="the last queen"><br>by Chetan Bhagat | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 231"> <br><input type="submit" name="submit" value="add to cart"></p>
+            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="the last queen"><br>by chitra banerjee divakaruni | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 231"> <br><input type="submit" name="submit" value="add to cart"></p>
             </div>
             <div style="background-color:; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
             <img src="image/harry potter.jpeg"></img>
-            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="Harry potter book set"><br>by Collen Hoover | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 1499"><br><input type="submit" name="submit" value="add to cart"></p>
+            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="Harry potter book set"><br>by J.K.Rowling | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 1499"><br><input type="submit" name="submit" value="add to cart"></p>
             </div>
             <div style="background-color: ; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
             <img src="image/percy.jpeg"></img>
-            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="Below Zero (English)"><br>by Ali Hazelwood | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 231"> <br><input type="submit" name="submit" value="add to cart"></p>
+            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="Percy Jackson and the Olympians"><br>by Rick riordan | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 231"> <br><input type="submit" name="submit" value="add to cart"></p>
             </div>
             </div>
             <div style="display: flex">
             <div style="background-color:; margin-left: 150px; margin-top:30px;  width: fit-content; text-align: center">
             <img src="image/forests.jpeg"></img>
-            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="Bittersweet Memories (English)"><br>by Catherina Maura | 1 Januy 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 231"> <br><input type="submit" name="submit" value="add to cart"></p>
+            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="The forests of enchantments"><br>by chitra banerjee divakaruni | 1 Januy 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 231"> <br><input type="submit" name="submit" value="add to cart"></p>
             </div>
             <div style="background-color:; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
             <img src="image/palace.jpeg"></img>
-            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="Breaking Dawn (English)"><br>by Stephenie Meyer | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 230"> <br><input type="submit" name="submit" value="add to cart"><p>
+            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="The palace of Illusions"><br>by chitra banerjee divakaruni | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 230"> <br><input type="submit" name="submit" value="add to cart"><p>
             </div>
             <div style="background-color: ; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
             <img src="image/shiva.jpeg"></img>
-            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="Eclipse (English)"><br>by Stephenie Meyer | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 231"> <br><input type="submit" name="submit" value="add to cart"></p>
+            <p><input type="text" readonly style="border: none; outline:none; background:none; color:white" name="bookname" value="Shiva Triology"><br>by Amish Tripathi | 1 January 2014 <br> Paperback <br><input type="text" readonly style="border: none; outline:none; background:none; color:white; text-align: center" name="price" value="M.R.P: 231"> <br><input type="submit" name="submit" value="add to cart"></p>
             </div>
             </div>
         </nav>

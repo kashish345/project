@@ -27,18 +27,18 @@
 </html>
 <?php
 
-    $conn=new mysqli("localhost","root","","ks");
+    $conn=new mysqli("localhost","root","","project");
     if(isset($_POST['submit']))
     {
     $username=$_POST['user'];
     $password=$_POST['pass'];
-    $sql= "SELECT * FROM register WHERE firstname='$username' and password='$password'";
+    $sql= "SELECT * FROM login WHERE firstname='$username' and password='$password'";
     $result=mysqli_query($conn,$sql);
     $row=mysqli_fetch_array($result ,MYSQLI_ASSOC);
     $count= mysqli_num_rows($result); 
     if($count==1)
     {
-        header("location:view.php");
+        header("location:bookbunker.php");
     }
 }
 ?>
