@@ -40,7 +40,7 @@ nav a {
     <a href="bookbunker.php"style="padding: 20px; color:white; text-align:right">home</a>
     <a href="cart.php"style="padding: 20px; color:white; text-align:right">Cart</a><br></nav>
         <h1> HORROR</h1>
-        <h2>"Books may well be the only true magic"</h2>
+        <h2>“Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.”</h2>
         <form action="insert.php" method="POST">
         <nav>
             <div style="display: flex">
