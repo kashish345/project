@@ -64,13 +64,10 @@ nav a {
             <a href="romance.php"  style="padding: 20px; color:white">Romance</a>
             <a href="thriller.php"  style="padding: 20px; color:white">Thriller</a>
             <a href="ficition.php" style="padding: 20px;color:white">Fiction</a></li>
-           <a href="nonfiction.html" style="padding: 20px; color:white">Non-Fiction</a>
-            <a href="horror.html" style="padding: 20px; color:white">Horror</a>
+           <a href="nonfiction.php" style="padding: 20px; color:white">Non-Fiction</a>
+            <a href="horror.php" style="padding: 20px; color:white">Horror</a>
             <a href="contact.php" style="padding: 20px; color:white">Contact Us</a><br>
-            <form action="search.php" method="GET">
-                <input type="text" name="query" placeholder="Search...">
-                <input type="submit" value="Search">
-              </form>
+            
             <!-- Add more eBooks as needed -->
         </nav>
         <h1 style="color:white">Romance</h1>
@@ -102,7 +99,7 @@ nav a {
             </div>
             <div style="background-color:; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
             <a href="thriller.php"><img src="image/as good as dead.jpeg"></img></a>
-            <p>As Good As Dead (English)<br>>M.R.P: 230</p>
+            <p>As Good As Dead (English)<br>M.R.P: 230</p>
             </div>
             </nav>
             <h1 style="color:white">Fiction</h1>
@@ -110,21 +107,50 @@ nav a {
             <div style="display: flex">
             <div style="background-color:; margin-left: 150px; margin-top:30px;  width: fit-content; text-align: center">
             <a href="ficition.php"><img src="image/palace.jpeg"></img></a>
-            <p>A Good Girl's Guide To Murder (English)<br>M.R.P: 231</p>
+            <p>The illusions of Palace<br>M.R.P: 231</p>
             </div>
             <div style="background-color: ; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
             <a href="ficition.php"><img src="image/forests.jpeg" style="height: 170px; width: 170px;"></img></a>
-            <p>Good Girl, Bad Blood (English)<br>M.R.P: 231</p>
+            <p>The Forests Of Enchanments (English)<br>M.R.P: 231</p>
             </div>
             <div style="background-color:; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
             <a href="ficition.php"><img src="image/last queen.jpeg"></img></a>
-            <p>As Good As Dead (English)<br>>M.R.P: 230</p>
+            <p>The Last Queen<br>M.R.P: 230</p>
             </div>
-           
+            </nav>
+            <h1 style="color:white"> Non-Fiction</h1>
             <nav>
-
-       
-    </main>
+            <div style="display: flex">
+            <div style="background-color:; margin-left: 150px; margin-top:30px;  width: fit-content; text-align: center">
+            <a href="nonfiction.php"><img src="image/doglapan.jpeg"></img></a>
+            <p>Doglapan<br>M.R.P: 231</p>
+            </div>
+            <div style="background-color: ; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
+            <a href="nonfiction.php"><img src="image/tsaongaf.jpeg" style="height: 170px; width: 170px;"></img></a>
+            <p>The Sublet Art Of Not Giving A Fuck<br>M.R.P: 231</p>
+            </div>
+            <div style="background-color:; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
+            <a href="nonfiction.php"><img src="image/norweign woods.jpeg"></img></a>
+            <p>Norweign Woods<br>M.R.P: 230</p>
+            </div>
+            </nav>
+            <h1 style="color:white">Horror</h1>
+            <nav>
+            <div style="display: flex">
+            <div style="background-color:; margin-left: 150px; margin-top:30px;  width: fit-content; text-align: center">
+            <a href="horror.php"><img src="image/the strand.jpeg"></img></a>
+            <p>The Strand<br>M.R.P: 231</p>
+            </div>
+            <div style="background-color: ; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
+            <a href="horror.php"><img src="image/yesternigth.jpeg" style="height: 170px; width: 170px;"></img></a>
+            <p>Yesternight<br>M.R.P: 231</p>
+            </div>
+            <div style="background-color:; margin-left: 150px; margin-top:30px; opacity:; width: fit-content; text-align: center">
+            <a href="nonfiction.php"><img src="image/the cantervilla ghost.jpeg"></img></a>
+            <p>The Cantervilla Ghost<br>M.R.P: 230</p>
+            </div>
+            </nav>
+            </main>
        
             <br><br>
            
